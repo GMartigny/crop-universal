@@ -32,6 +32,7 @@
         "url": "https://github.com/GMartigny/crop-universal/issues"
     },
     "homepage": "https://github.com/GMartigny/crop-universal#readme",
+    "funding": "https://github.com/GMartigny/crop-universal?sponsor=1",
     "dependencies": {
         "detect-edges": "^1.0.1"
     },
