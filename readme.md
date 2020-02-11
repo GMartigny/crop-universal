@@ -1,7 +1,7 @@
 # crop-universal
 
 [![Package version](https://flat.badgen.net/npm/v/crop-universal)](https://www.npmjs.com/package/crop-universal)
-[![Package size](https://badgen.net/bundlephobia/minzip/crop-universal)](https://bundlephobia.com/result?p=crop-universal)
+[![Package size](https://flat.badgen.net/bundlephobia/minzip/crop-universal)](https://bundlephobia.com/result?p=crop-universal)
 
 Crop all transparent pixel around an image's edges.
 
