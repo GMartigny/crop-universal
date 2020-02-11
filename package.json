@@ -1,6 +1,6 @@
 {
     "name": "crop-universal",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Crop transparent pixel from image",
     "keywords": [
         "trim",
