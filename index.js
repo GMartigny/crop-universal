@@ -2,7 +2,7 @@ import detect from "detect-edges";
 
 /**
  * @typedef {Function} Cropper - Crop transparent pixels from an image
- * @param {String|Image|HTMLImageElement} input - Path to the image to process or any type supported by your `Canvas.prototype.drawImage` environment
+ * @param {String|CanvasImageSource} input - Path to the image to process or any type supported by your `Canvas.prototype.drawImage` environment
  * @param {Options} [options] - Options for the detect-edges library
  * @returns {Promise<HTMLCanvasElement>}
  */
