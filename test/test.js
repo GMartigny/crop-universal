@@ -1,6 +1,6 @@
 import test from "ava";
 import Canvas from "canvas";
-import cropBuilder from "..";
+import cropBuilder from "../index.js";
 
 const { createCanvas, loadImage } = Canvas;
 
